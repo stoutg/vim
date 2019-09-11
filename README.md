@@ -16,12 +16,12 @@
 | `C` | change tree root to the selected dir |
 | `t` | open file in new tab |
 | `i` | open file in horizontal (-) split |
-| `s` | open file in vertical (|) split |
+| `s` | open file in vertical (\|) split |
 | `B` | toggle bookmarks |
 | `:Bookmark bookMarkName` | creates a bookmark called bookMarkName for the selected dir |
 
 ## [Buffer Explorer](https://github.com/jlanzarotta/bufexplorer)
 | Command | Description |
 | ------- | ----------- |
-| `\be` | to open |
-| `<F3>` | mapped to \\be |
+| `<leader>be` | to open |
+| `<F3>` | mapped to \<leader>be |
